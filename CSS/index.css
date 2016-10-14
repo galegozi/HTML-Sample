@@ -1,10 +1,10 @@
 body
 {
-  background-file: url('../Images/background.jpg');
+  background-image: url('../Images/background.jpg');
 }
 .me
 {
-  text-aligh: center;
+  text-align: center;
   color: white;
 }
 .about-me
